@@ -1,0 +1,14 @@
+school>id,name,adress,contact
+employees>id,name,teacher-id,school-id
+dormitories>id,name,school-id
+departments>id,name,school-id
+form>id,form-one,form-two,form-three,form-four,school-id
+classroom>id,form-id,student-id,teacher-id,
+teachers>id,name,department-id,classroom-id,subject-id
+subjects>id,name
+student>id,name,classroom-id,dormitory-id
+library-id,name,school-id,employee-id
+
+
+
+
